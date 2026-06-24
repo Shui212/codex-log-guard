@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Log Guard"
+  short_description: "Detect and stop Codex SQLite log churn"
+  default_prompt: "Check Codex SQLite logging and install the blocking trigger when excessive writes are detected."
